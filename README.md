@@ -5,7 +5,7 @@ Moderation, ticketing, games, social notifications & more
 Automated Anti-Raid & Anti-scam functions
 
 ## Currently implemented 
-#### features:
+#### Features:
 - Ticket system
 - Youtube notification (using YouTubes RSS feed)
 
